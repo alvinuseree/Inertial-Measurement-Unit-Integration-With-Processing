@@ -1,1 +1,1 @@
-# Intertial-Measurment-Unit-Integration-With-Procesinig
+# Inertial-Measurement-Unit-Integration-With-Processing
