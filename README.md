@@ -17,5 +17,10 @@ Compile the Arduino IDE code to the Arduino UNO. To test the operation of this m
 Processing:
 The processing code can either be run by compiling the code and pressing run, or opening the exe file located in the application folders e.g. "application.windows32"
 
+## Authors
+Alvin Useree
+
+## Acknowledgements 
+The raw data is read using open sourced code provided by arduino.cc user "Krodal"
 
 
