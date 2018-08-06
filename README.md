@@ -2,9 +2,7 @@
 
 The program is able to read raw data from the MPU6050 IMU sensor, using an Arduino Uno to calculate x,y,z (roll,pitch yaw) components of the orientation of the sensor. The calculation occurs in the Arduino IDE and is sent to Processing (via the serial) to present a visual representation of the sensor to the user.
 
-<p align="center">
-  src="https://github.com/alvinuseree/Inertial-Measurement-Unit-Integration-With-Processing/blob/master/MPU6050%20Demo.png">
-</p>
+![Image description](https://github.com/alvinuseree/Inertial-Measurement-Unit-Integration-With-Processing/blob/master/MPU6050%20Demo.png)
 
 ## Getting Started
 
